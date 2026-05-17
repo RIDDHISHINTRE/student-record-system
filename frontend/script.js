@@ -1,4 +1,4 @@
-const API = "http://localhost:3000/api/students";
+const API = "api/students";
 
 
 // LOAD STUDENTS
