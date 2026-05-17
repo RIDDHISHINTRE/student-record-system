@@ -1,4 +1,4 @@
-const API = "/students";
+const API = "/api/students";
 
 
 // LOAD STUDENTS
